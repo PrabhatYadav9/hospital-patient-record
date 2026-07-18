@@ -20,7 +20,7 @@ A simple Python console-based Hospital Patient Records Management System that al
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/hospital-patient-records.git
+   https://github.com/PrabhatYadav9/hospital-patient-record.git
    ```
 
 2. Open the project folder:
@@ -56,4 +56,4 @@ hospital-patient-records/
 
 ## Author
 
-Your Name
+Prabhat Yadav
